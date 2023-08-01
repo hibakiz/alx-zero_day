@@ -1,3 +1,5 @@
+git push 
+git checkout branch_name
+git pull branch_name
 git add .
-git commit -m 
-git push
+git commit
